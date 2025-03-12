@@ -1,0 +1,1 @@
+springboot: mini7-spring-aivle1068-dpavd5d0fkeaa3dq.koreacentral-01.azurewebsites.net
